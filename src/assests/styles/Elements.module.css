@@ -1,0 +1,18 @@
+.selector {
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.CountryDescription{
+    height:50px;
+    width:100px;
+    border:1px solid black;
+}
+.SearchInput{
+    width: 25%;
+}
+.TotalAmount{
+    position: absolute;
+    right: 0px;
+}
